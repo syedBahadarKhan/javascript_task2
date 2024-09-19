@@ -1,0 +1,17 @@
+*{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+#first{
+    padding-top: 25%;
+}
+
+.dark{
+    background-color: black;
+    height: 100vh;
+}
+.white{
+    background-color: #fff;
+    height: 100vh;
+}
